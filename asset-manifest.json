@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mathonedemo2/static/css/main.46c96389.chunk.css",
+    "main.js": "/mathonedemo2/static/js/main.da41d399.chunk.js",
+    "main.js.map": "/mathonedemo2/static/js/main.da41d399.chunk.js.map",
+    "runtime-main.js": "/mathonedemo2/static/js/runtime-main.ef5dff01.js",
+    "runtime-main.js.map": "/mathonedemo2/static/js/runtime-main.ef5dff01.js.map",
+    "static/js/2.2b3eef00.chunk.js": "/mathonedemo2/static/js/2.2b3eef00.chunk.js",
+    "static/js/2.2b3eef00.chunk.js.map": "/mathonedemo2/static/js/2.2b3eef00.chunk.js.map",
+    "index.html": "/mathonedemo2/index.html",
+    "precache-manifest.1d726a6a7c153c22aa527d41b2138319.js": "/mathonedemo2/precache-manifest.1d726a6a7c153c22aa527d41b2138319.js",
+    "service-worker.js": "/mathonedemo2/service-worker.js",
+    "static/css/main.46c96389.chunk.css.map": "/mathonedemo2/static/css/main.46c96389.chunk.css.map",
+    "static/js/2.2b3eef00.chunk.js.LICENSE.txt": "/mathonedemo2/static/js/2.2b3eef00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef5dff01.js",
+    "static/js/2.2b3eef00.chunk.js",
+    "static/css/main.46c96389.chunk.css",
+    "static/js/main.da41d399.chunk.js"
+  ]
+}
