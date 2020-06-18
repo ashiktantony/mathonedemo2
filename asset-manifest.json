@@ -1,22 +1,24 @@
 {
   "files": {
     "main.css": "/mathonedemo2/static/css/main.46c96389.chunk.css",
-    "main.js": "/mathonedemo2/static/js/main.da41d399.chunk.js",
-    "main.js.map": "/mathonedemo2/static/js/main.da41d399.chunk.js.map",
+    "main.js": "/mathonedemo2/static/js/main.85bf79ff.chunk.js",
+    "main.js.map": "/mathonedemo2/static/js/main.85bf79ff.chunk.js.map",
     "runtime-main.js": "/mathonedemo2/static/js/runtime-main.ef5dff01.js",
     "runtime-main.js.map": "/mathonedemo2/static/js/runtime-main.ef5dff01.js.map",
-    "static/js/2.2b3eef00.chunk.js": "/mathonedemo2/static/js/2.2b3eef00.chunk.js",
-    "static/js/2.2b3eef00.chunk.js.map": "/mathonedemo2/static/js/2.2b3eef00.chunk.js.map",
+    "static/js/2.524d3317.chunk.js": "/mathonedemo2/static/js/2.524d3317.chunk.js",
+    "static/js/2.524d3317.chunk.js.map": "/mathonedemo2/static/js/2.524d3317.chunk.js.map",
     "index.html": "/mathonedemo2/index.html",
-    "precache-manifest.1d726a6a7c153c22aa527d41b2138319.js": "/mathonedemo2/precache-manifest.1d726a6a7c153c22aa527d41b2138319.js",
+    "precache-manifest.89b878e3063746c4f66689c41938d51c.js": "/mathonedemo2/precache-manifest.89b878e3063746c4f66689c41938d51c.js",
     "service-worker.js": "/mathonedemo2/service-worker.js",
     "static/css/main.46c96389.chunk.css.map": "/mathonedemo2/static/css/main.46c96389.chunk.css.map",
-    "static/js/2.2b3eef00.chunk.js.LICENSE.txt": "/mathonedemo2/static/js/2.2b3eef00.chunk.js.LICENSE.txt"
+    "static/js/2.524d3317.chunk.js.LICENSE.txt": "/mathonedemo2/static/js/2.524d3317.chunk.js.LICENSE.txt",
+    "static/media/math11.jpg": "/mathonedemo2/static/media/math11.28533de2.jpg",
+    "static/media/math3.jpg": "/mathonedemo2/static/media/math3.2b491f50.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ef5dff01.js",
-    "static/js/2.2b3eef00.chunk.js",
+    "static/js/2.524d3317.chunk.js",
     "static/css/main.46c96389.chunk.css",
-    "static/js/main.da41d399.chunk.js"
+    "static/js/main.85bf79ff.chunk.js"
   ]
 }
